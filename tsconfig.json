@@ -1,0 +1,14 @@
+﻿{
+  "compilerOptions": {
+    "compileOnSave": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "./dev/scripts/",
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "target": "es6"
+  }
+
+}
